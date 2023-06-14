@@ -1,0 +1,50 @@
+.main{
+  width: 24.8%;
+  height: 551px;
+  border: 2px solid black;
+  border-radius: 30px;
+  margin-left: 35%;
+  margin-top: 60px;
+}
+.App{
+  text-align: center;
+}
+.fname{
+  width: 430px;
+}
+.lname{
+  width: 430px;
+}
+.gender{
+  width: 330px;
+}
+.select{
+  width: 200px;
+}
+.hobbies{
+  width: 350px;
+}
+.btn{
+  text-align: center;
+}
+
+
+// bottom table css
+
+table{
+    border-collapse: collapse;
+  }
+table.list{
+    width:100%;
+  }
+td, th {
+    text-align: left;
+    padding: 7px;
+  }
+.ftable {
+    border: 1px solid #111010;
+    padding: 3px;
+    margin: auto;
+    width: 70%;
+    padding-top: 10px;
+  }
